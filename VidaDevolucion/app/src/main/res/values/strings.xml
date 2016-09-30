@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VidaDevolucion</string>
+
+    <string name="facebook_app_id">1353170364723767</string>
+
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Ingresar</string>
+    <string name="dont_have_account">¿No tiene cuenta?,</string>
+    <string name="create_here"> Llamar al 411-1111</string>
+    <string name="opcionOr">ó</string>
+</resources>
